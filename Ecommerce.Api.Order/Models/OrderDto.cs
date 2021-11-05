@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Ecommerce.Api.Order.Models
 {
   /// <summary>
-  /// order response dto
+  /// response dto
   /// </summary>
   public class OrderDto
   {
